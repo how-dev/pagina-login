@@ -91,3 +91,15 @@ body {
           outline: none;
      }
     
+@media (min-width:716px){
+     .principal {
+          width: 50%;
+          margin: 0 auto;
+     }
+     .principal__recuperar {
+          border-radius: 50px;
+     }
+     body {
+          padding-bottom: 70px;
+     }
+}
